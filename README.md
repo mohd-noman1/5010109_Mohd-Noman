@@ -1,12 +1,10 @@
-# My Certificates
+# \# 📜 My Certificates
 
-\# 📜 My Certificates
+# 
 
+# \## Certificate 1
 
-
-\## Certificate 1
-
-!\[Certificate 1](Git-Certificate.jpg)
+# !\[Git Certificate](Git-Certificate.jpg)
 
 
 
