@@ -36,7 +36,7 @@
 <img src="https://github.com/user-attachments/assets/378c77ef-c680-4192-8a3a-ed567dffaab4" alt="4" width="45%" />
 </p>
 
-# \# C Prrogramming-Certificate_sololearn
+# \# C Programming-Certificate_sololearn
 
 ![C Prrogramming-Certificate_sololearn](https://github.com/user-attachments/assets/c6c58b37-1714-4269-bdee-50f137067416)
 
